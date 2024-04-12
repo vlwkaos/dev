@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "5a492919905b4272",
+    "type": "split",
+    "children": [
+      {
+        "id": "a250f05d8dd0b8a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aa756daf63efd7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23a9871d90f011b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/웹 텍스트 에디터 개발, 어떤 형태가 좋을지에 대한 답변.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6fdafa2b60dbd2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/지속가능한 프로젝트 운영방법?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c5de2495d5f0b66",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "01cc1ffa81863924",
+    "type": "split",
+    "children": [
+      {
+        "id": "71386c32085540d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c589ee1358c7de83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ead588133ef86a14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "edd358e665924724",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0b9ba6887294c489",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65edaab5c6528901",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/웹 텍스트 에디터 개발, 어떤 형태가 좋을지에 대한 답변.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67e4f5bbd2ab82d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/웹 텍스트 에디터 개발, 어떤 형태가 좋을지에 대한 답변.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bdb5234ddeadad0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d21624f172f089dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/웹 텍스트 에디터 개발, 어떤 형태가 좋을지에 대한 답변.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "23a9871d90f011b3",
+  "lastOpenFiles": [
+    "notes/지속가능한 프로젝트 운영방법?.md",
+    "notes/웹 텍스트 에디터 개발, 어떤 형태가 좋을지에 대한 답변.md",
+    "readme.md",
+    "notes/나보다 프로젝트가 중요하니까.md",
+    "notes/TypeScript 타입스크립트.md",
+    "notes/TypeScript - 함수 오버로딩.md",
+    "notes/TypeScript - Logical operator narrowing.md",
+    "notes/TypeScript - 조건부 type정의시 infer.md",
+    "TypeScript - Index Signature.md",
+    "notes/TypeScript - type alias vs interface.md",
+    "notes/Docker.md",
+    "notes/팀 매니징.md",
+    "notes/트위터 코드 첫 10줄 설명하기.md",
+    "notes/튀는 개발자와 함께 일하기.md",
+    "notes/코드분석 - TypeScript.md",
+    "notes/코드분석 - React.md",
+    "notes/코드분석.md",
+    "notes/인공지능 오남용 사례 WIP.md",
+    "notes/이슈분석 VSCode Repo.md",
+    "notes/이슈분석 TypeScript Repo.md",
+    "notes/우아한 형제들 타입 스크립트 세미나.md",
+    "notes/업무 및 커리어.md",
+    "notes/실용 정보 윤리학.md",
+    "notes/비폭력적 의사소통(NVC).md",
+    "notes/북 리뷰 - TDD Test Driven Development.md",
+    "notes/델 XPS 13 9350에 Catalina 설치.md",
+    "notes/윈도우10 터미널 환경설정.mdx",
+    "templates",
+    "categories",
+    "attachments",
+    "notes"
+  ]
+}
