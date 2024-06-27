@@ -1,0 +1,20 @@
+
+- Goal alignment by resource
+	- full contenteditable-based
+	- semi contenteditable-based
+	- canvas-based
+- Model Schema Abstraction
+	- Class based
+	- Schema object based
+	- model change
+- View Dom Abstraction
+	- Schema
+	- reconciliation
+- Selection Abastraction
+	- Controlling Selection API
+		- user-intent
+		- need some kind of event layer...?
+- Input Abastraction
+	- Yes we definitely need one.
+- The Future
+	- EditorContext API
