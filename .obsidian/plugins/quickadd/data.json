@@ -59,36 +59,6 @@
       "openFileInMode": "default",
       "fileExistsMode": "Append to the bottom of the file",
       "setFileExistsBehavior": true
-    },
-    {
-      "id": "c3aa1f58-d2b3-43a7-8c82-724a0b811705",
-      "name": "⚡️ Create new note (copy)",
-      "type": "Template",
-      "command": true,
-      "templatePath": "templates/template_note.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "notes"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": false
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Append to the bottom of the file",
-      "setFileExistsBehavior": true
     }
   ],
   "macros": [],

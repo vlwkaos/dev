@@ -5,7 +5,7 @@ Curated articles with personal note.
 
 ### Highlight
 
-- [웹 텍스트 에디터 개발 가이드 (WIP)](웹%20텍스트%20에디터%20개발%20가이드%20(WIP).md)
+- [웹 텍스트 에디터 개발 가이드 (WIP)](notes/웹%20텍스트%20에디터%20개발%20가이드.md)
 
 ---
 
@@ -39,3 +39,8 @@ Curated articles with personal note.
 	- 장기 프로젝트를 진행하며 많이 공감하는 내용이 담겨있는 글. 모든 코드는 결국 비용이다.
 - (2024-02-24) (DRAFT) [지속가능한 프로젝트 운영방법?](notes/지속가능한%20프로젝트%20운영방법?.md)
 - (2024-02-23) [Nobody Ever Gets Credit for Fixing Problems that Never Happened](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) #management #work-process
+- (2021-01-05) [때로는 중복 코드가 더 낫다](notes/때로는%20중복%20코드가%20더%20낫다.md)
+- (2020-12-11) [기술 부채](notes/기술%20부채.md)
+- (2020-10-10) [관리하기 쉬운 코드](notes/관리하기%20쉬운%20코드.md)
+- (2019-09-22) [알고리즘이 항상 공정할까?](notes/알고리즘이%20항상%20공정할까?.md)
+- (2019-02-22) [자유의 계보](notes/자유의%20계보.md)
