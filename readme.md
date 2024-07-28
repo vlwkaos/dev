@@ -16,6 +16,8 @@ Curated articles with personal note.
 
 ### Archive
 
+- (2024-07-28) [복잡하기 위한 복잡함은 이제 그만](https://www.radicalsimpli.city/)
+- (2024-07-19) [구직 시장 이대로 괜찮은가](https://matt.sh/panic-at-the-job-market)
 - (2024-07-07) [계속, 스타트업처럼 빠르게](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams)
 	- 확실히 작은 회사에서의 업무는 더 열정적이고 빠르게 진행되었던 것 같다. 모순적인 부분은 분명 큰 기업에 실력자가 더 많다는 것. 그럼에도 작업물을 완성하고 배포하는 과정이 더 느리게 느껴지는 이유는?
 - (2024-06-16) [이정도면 충분한 설계를 하는 방법](https://www.georgefairbanks.com/book/) #software-design
